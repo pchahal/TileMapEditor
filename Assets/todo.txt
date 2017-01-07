@@ -1,0 +1,8 @@
+Check spritesheet folder
+remove old sprites use opensource sprites
+console error
+extra tilecursors
+add a new opensource player prefab with 2dcontroller
+remove unused utility.cs code
+create new 2d brush mario style nice
+cleanup editor scripts
